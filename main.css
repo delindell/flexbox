@@ -55,3 +55,14 @@ position: fixed;
 left: 0;
 bottom: 0;
 }
+
+.dogs img {
+    height: 400px;
+    margin: 50 px;
+}
+
+.dogs {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
